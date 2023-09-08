@@ -1,1 +1,0 @@
-This project is about a small hotel where we will get details about some cusine. We use node.js, ejs template for this project.
